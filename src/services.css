@@ -1,0 +1,17 @@
+#service-card {
+   margin-top:50px;
+   margin-bottom:50px;
+   text-align:center;
+   background-color: cyan;
+   border :2px solid black;
+   border-radius: 7px;
+}
+
+#book-service-btn{
+    width : 170px;
+    font-size: 15px;
+    font-weight: normal;
+    background-color:black;
+    border:2px solid cyan;
+    border-radius: 7px;
+}

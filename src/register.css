@@ -1,0 +1,38 @@
+
+#email-field, #pwd-field{
+    width: 400px;
+}
+
+#register-button {
+    margin-left: 125px;
+    margin-right: 125px;
+    margin-top: 20px;
+    width : 170px;
+    font-size: 15px;
+    font-weight: normal;
+    background-color:black;
+    border:2px solid cyan;
+    border-radius: 7px;
+}
+
+
+#a {
+    width: 45px;
+}
+
+h5 {
+    margin-bottom: 40px ;
+    color: black;
+}
+
+ #register-container {
+     background-color:cyan;
+     height : 520px;
+     width: 500px;
+     padding-left: 30px;
+     padding-right: 30px;
+     padding-top: 60px;
+     margin-top: 125px;
+     border: 2px solid white;
+     border-radius: 15px;
+ }
